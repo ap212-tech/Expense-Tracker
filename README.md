@@ -1,7 +1,3 @@
-Here's a comprehensive `README.md` file for your full-stack expense tracker application:
-
----
-
 # Full Stack Expense Tracker
 
 ## Project Overview
